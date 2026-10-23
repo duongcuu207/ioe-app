@@ -1,4 +1,4 @@
-# IOE App — Giới thiệu cho học sinh, sinh viên và phụ huynh
+# IOE App - Giới thiệu cho học sinh, sinh viên và phụ huynh
 
 IOE App là ứng dụng Android đưa toàn bộ [ioe.vn](https://ioe.vn/trang-chu) — website thi và luyện thi IOE
 của Bộ Giáo dục và Đào tạo — vào điện thoại, với giao diện riêng gọn gàng, mượt mà và thao tác bằng một tay.
