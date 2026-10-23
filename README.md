@@ -1,7 +1,7 @@
 # IOE App - Giới thiệu cho học sinh, sinh viên và phụ huynh
 
 IOE App là ứng dụng Android đưa toàn bộ [ioe.vn](https://ioe.vn/trang-chu) — website thi và luyện thi IOE
-của Bộ Giáo dục và Đào tạo — vào điện thoại, với giao diện riêng gọn gàng, mượt mà và thao tác bằng một tay.
+của Bộ Giáo dục và Đào tạo vào điện thoại, với giao diện riêng gọn gàng, mượt mà và thao tác bằng một tay.
 Cài một lần, mở là học: không cần gõ địa chỉ, không cần trình duyệt, không quảng cáo lạ.
 
 ## App dành cho ai
@@ -11,7 +11,7 @@ vào mục Tự luyện, chọn khối và môn, làm bài ngay trên điện th
 xem đáp án và giải thích ngay sau khi nộp bài.
 
 **Học sinh trung học phổ thông và sinh viên năm đầu.** Các em đã qua độ tuổi thi IOE nhưng vẫn dùng được
-bộ đề IOE để ôn nền tảng tiếng Anh, khoa học và tư duy logic — đặc biệt hữu ích cho sinh viên năm đầu
+bộ đề IOE để ôn nền tảng tiếng Anh, khoa học và tư duy logic đặc biệt hữu ích cho sinh viên năm đầu
 chuẩn bị kỳ thi năng lực hoặc học bổng. App giữ nguyên toàn bộ đề và đề thi thử của website.
 
 **Phụ huynh.** Cha mẹ cài app cho con, tạo một tài khoản, theo dõi lịch sử bài làm và thành tích trong mục
@@ -58,7 +58,7 @@ số tài khoản. Mọi mức ủng hộ đều giúp app tiếp tục miễn p
 
 ## Cài đặt
 
-Tải file `app-release.apk`, bật "Cài từ nguồn không xác định" nếu máy yêu cầu, cài và mở. Yêu cầu
+Tải file `IOE.apk`, bật "Cài từ nguồn không xác định" nếu máy yêu cầu, cài và mở. Yêu cầu
 Android 7.0 trở lên. Đăng nhập bằng tài khoản IOE hoặc tạo tài khoản mới trên website ioe.vn.
 
 ---
