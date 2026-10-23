@@ -2,11 +2,6 @@
 
 Ứng dụng dành cho **học sinh, sinh viên và phụ huynh**: mở một lần là vào thẳng IOE, không cần gõ địa chỉ web, không quảng cáo, không bị lạc trang.
 
-<p align="center">
-  <img src="docs/screenshots/home.png" width="30%" alt="Trang chủ" />
-  <img src="docs/screenshots/practice.png" width="30%" alt="Tự luyện" />
-  <img src="docs/screenshots/donate.png" width="30%" alt="Ủng hộ" />
-</p>
 
 ## App này dành cho ai?
 
