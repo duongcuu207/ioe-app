@@ -60,8 +60,7 @@ số tài khoản. Mọi mức ủng hộ đều giúp app tiếp tục miễn p
 
 Tải file `IOE.apk`, bật "Cài từ nguồn không xác định" nếu máy yêu cầu, cài và mở. Yêu cầu
 Android 7.0 trở lên. Đăng nhập bằng tài khoản IOE hoặc tạo tài khoản mới trên website ioe.vn.
-![QR DONATE](https://i.ibb.co/r2KVPSgK/1792738439317-1847497776987583806-8593512334539700959-3055e4740bfdfacfe62c7f1ee2138098.jpg)
-
+<img src="https://i.ibb.co/r2KVPSgK/1792738439317-1847497776987583806-8593512334539700959-3055e4740bfdfacfe62c7f1ee2138098.jpg" width="100%" alt="Ảnh ImgBB">
 ---
 
 *IOE App không phải sản phẩm chính thức của Bộ Giáo dục và Đào tạo hay ban tổ chức IOE. Đây là ứng dụng
