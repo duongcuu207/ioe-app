@@ -1,4 +1,4 @@
-# IOE App — Học và thi IOE ngay trên điện thoại
+# IOE App — Tải App Học và thi IOE ngay trên điện thoại
 
 Ứng dụng dành cho **học sinh, sinh viên và phụ huynh**: mở một lần là vào thẳng IOE, không cần gõ địa chỉ web, không quảng cáo, không bị lạc trang.
 
