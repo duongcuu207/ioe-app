@@ -32,7 +32,7 @@ app chỉ mở đúng các trang của IOE.
 
 ## Giao diện
 
-App có lớp vỏ native kiểu macOS: thanh điều hướng nổi ở đáy màn hình, bo góc, đổ bóng nhẹ, bấm vào là
+Tthanh điều hướng nổi ở đáy màn hình, bo góc, đổ bóng nhẹ, bấm vào là
 nhún nhẹ. Các bảng tùy chọn trượt lên từ đáy. Chuyển giữa các mục thì trang mờ dần rồi hiện lại — không
 giật hình như khi bấm link trên web. Thanh điều hướng luôn nằm trên thanh gesture, không bị bàn phím che,
 chạy đều trên máy từ Android 7.0 đến Android 15.
