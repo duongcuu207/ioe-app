@@ -54,8 +54,8 @@ Muốn ủng hộ: mở mục **Donate** trên thanh điều hướng, quét mã
 
 ## Cài đặt
 
-1. Tải file `app-release.apk` về điện thoại.
-2. Nếu máy hỏi, bật **"Cài từ nguồn không xác định"** (Cài đặt → Bảo mật).
+1. Tải file `IOE APP 1.0.0.apk` về điện thoại.
+2. Nếu máy hỏi, bật **"Cài từ nguồn không xác định"**.
 3. Bấm vào file vừa tải để cài, rồi mở app.
 
 Yêu cầu: **Android 7.0 trở lên**. Chạy tốt trên điện thoại và máy tính bảng.
