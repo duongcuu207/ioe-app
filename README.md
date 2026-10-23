@@ -1,6 +1,6 @@
 # IOE App — Landing Page
 
-Trang giới thiệu và tải app IOE App (Android WebView bọc [ioe.vn](https://ioe.vn/trang-chu)).
+Trang giới thiệu và tải app IOE App ( [ioe.vn](https://ioe.vn/trang-chu)).
 HTML/CSS/JS thuần, không framework, không build step — mở `index.html` là chạy.
 
 ## Nội dung
